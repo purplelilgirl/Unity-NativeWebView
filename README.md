@@ -5,7 +5,7 @@ How to open a website in Unity without popping out of your App (iOS and Android)
 
 iOS
 
-  - to prevent the Status Bar showing in the Appstore view, add View Controller based Status Bar to Info.plist and set it to false
+  - to prevent the Status Bar showing in the Webview, add View Controller based Status Bar to Info.plist and set it to false
 
 Android
 
